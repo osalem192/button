@@ -138,5 +138,3 @@ void Port_Write(uint8 port, uint8 dir)
 		break;
 	} 
 }
-
-// you can change the whole port by simply changing pinnum to 0xFF
